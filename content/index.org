@@ -11,7 +11,7 @@
 
 * Josuke
 lol
-[[~/site/content/resources/josuke.jpg]]
+[[./resources/josuke.jpg]]
 * Overview
 
 This is my personal Website written with [[https://orgmode.org][Org Mode]]!
