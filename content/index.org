@@ -1,10 +1,12 @@
 #+title:Electric Heritage
-#+AUTHOR:Cristhian Mayo
+#+AUTHOR:risthian Mayo
 
  
 * Overview
 
 This is my personal Website written with [[https://orgmode.org][Org Mode]]!
+
+Just testing lol
 
 Here is a link to my [[./Emacs.org][Emacs configuration]].
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Electric</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Cristhian Gutierrez Mejia" />
+<meta name="author" content="Cristhian Mayo" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
@@ -17,16 +17,16 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org87334fc">Overview</a></li>
-<li><a href="#orge44ebb1">Links</a></li>
+<li><a href="#org367bb44">Overview</a></li>
+<li><a href="#org9274f05">Links</a></li>
 </ul>
 </div>
 </div>
 
 
-<div id="outline-container-org87334fc" class="outline-2">
-<h2 id="org87334fc">Overview</h2>
-<div class="outline-text-2" id="text-org87334fc">
+<div id="outline-container-org367bb44" class="outline-2">
+<h2 id="org367bb44">Overview</h2>
+<div class="outline-text-2" id="text-org367bb44">
 <p>
 This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
 </p>
@@ -37,9 +37,9 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 
-<div id="outline-container-orge44ebb1" class="outline-2">
-<h2 id="orge44ebb1">Links</h2>
-<div class="outline-text-2" id="text-orge44ebb1">
+<div id="outline-container-org9274f05" class="outline-2">
+<h2 id="org9274f05">Links</h2>
+<div class="outline-text-2" id="text-org9274f05">
 <ul class="org-ul">
 <li><a href="https://systemcrafters.net">System Crafters Official Site</a></li>
 <li><a href="https://youtube.com/SystemCrafters">System Crafters on YouTube</a></li>
@@ -50,7 +50,7 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Cristhian Gutierrez Mejia</p>
+<p class="author">Author: Cristhian Mayo</p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
 </div>
 </body>
