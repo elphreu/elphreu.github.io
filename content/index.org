@@ -10,7 +10,8 @@
 =This site is work in progress= 
 
 * Josuke
-[[~/site/resources/josuke.jpg]]
+lol
+[[~/site/content/resources/josuke.jpg]]
 * Overview
 
 This is my personal Website written with [[https://orgmode.org][Org Mode]]!
