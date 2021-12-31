@@ -5,34 +5,35 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Electric Heritage</title>
+<title>Personal Website</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="risthian Mayo" />
+<meta name="author" content="Cristhian Mayo" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content">
-<h1 class="title">Electric Heritage</h1>
+<h1 class="title">Personal Website
+<br />
+<span class="subtitle">Always working on something</span>
+</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgecf69b2">Overview</a></li>
-<li><a href="#orga55d685">Links</a></li>
+<li><a href="#orgebd8f18">Overview</a></li>
+<li><a href="#org61ce2dd">Links</a></li>
 </ul>
 </div>
 </div>
-
-
-<div id="outline-container-orgecf69b2" class="outline-2">
-<h2 id="orgecf69b2">Overview</h2>
-<div class="outline-text-2" id="text-orgecf69b2">
 <p>
-This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
+<code>This site is work in progress</code> 
 </p>
 
+<div id="outline-container-orgebd8f18" class="outline-2">
+<h2 id="orgebd8f18">Overview</h2>
+<div class="outline-text-2" id="text-orgebd8f18">
 <p>
-Just testing lol
+This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
 </p>
 
 <p>
@@ -41,20 +42,14 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 
-<div id="outline-container-orga55d685" class="outline-2">
-<h2 id="orga55d685">Links</h2>
-<div class="outline-text-2" id="text-orga55d685">
-<ul class="org-ul">
-<li><a href="https://systemcrafters.net">System Crafters Official Site</a></li>
-<li><a href="https://youtube.com/SystemCrafters">System Crafters on YouTube</a></li>
-<li><a href="https://twitch.com/SystemCrafters">System Crafters on Twitch</a></li>
-<li><a href="https://twitter.com/SystemCrafters">System Crafters on Twitter</a></li>
-</ul>
+<div id="outline-container-org61ce2dd" class="outline-2">
+<h2 id="org61ce2dd">Links</h2>
+<div class="outline-text-2" id="text-org61ce2dd">
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: risthian Mayo</p>
+<p class="author">Author: Cristhian Mayo</p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
 </div>
 </body>
