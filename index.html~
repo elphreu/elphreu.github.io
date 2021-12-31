@@ -20,18 +20,33 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgafe9915">Overview</a></li>
-<li><a href="#org2b97504">Links</a></li>
+<li><a href="#orgb22dbc1">Josuke</a></li>
+<li><a href="#org25ab93e">Overview</a></li>
+<li><a href="#orgd81cfbb">Links</a></li>
 </ul>
 </div>
 </div>
+
+<div id="org7e63e2d" class="figure">
+<p><img src="./resources/josuke.jpg" alt="josuke.jpg" class="profile-img" />
+</p>
+</div>
+
 <p>
 <code>This site is work in progress</code> 
 </p>
 
-<div id="outline-container-orgafe9915" class="outline-2">
-<h2 id="orgafe9915">Overview</h2>
-<div class="outline-text-2" id="text-orgafe9915">
+<div id="outline-container-orgb22dbc1" class="outline-2">
+<h2 id="orgb22dbc1">Josuke</h2>
+<div class="outline-text-2" id="text-orgb22dbc1">
+<p>
+lol
+</p>
+</div>
+</div>
+<div id="outline-container-org25ab93e" class="outline-2">
+<h2 id="org25ab93e">Overview</h2>
+<div class="outline-text-2" id="text-org25ab93e">
 <p>
 This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
 </p>
@@ -42,14 +57,15 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 
-<div id="outline-container-org2b97504" class="outline-2">
-<h2 id="org2b97504">Links</h2>
-<div class="outline-text-2" id="text-org2b97504">
+<div id="outline-container-orgd81cfbb" class="outline-2">
+<h2 id="orgd81cfbb">Links</h2>
+<div class="outline-text-2" id="text-orgd81cfbb">
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Cristhian Mayo</p>
+<p class="email">Email: <a href="mailto:nvtn@toast">nvtn@toast</a></p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
 </div>
 </body>
