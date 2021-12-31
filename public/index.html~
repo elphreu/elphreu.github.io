@@ -8,7 +8,7 @@
 <title>Personal Website</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Cristhian Mayo" />
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 </head>
 <body>
 <div id="content">
@@ -20,8 +20,9 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgebd8f18">Overview</a></li>
-<li><a href="#org61ce2dd">Links</a></li>
+<li><a href="#org009e2c9">Josuke</a></li>
+<li><a href="#orgd1c11fb">Overview</a></li>
+<li><a href="#orgc5fa96e">Links</a></li>
 </ul>
 </div>
 </div>
@@ -29,9 +30,21 @@
 <code>This site is work in progress</code> 
 </p>
 
-<div id="outline-container-orgebd8f18" class="outline-2">
-<h2 id="orgebd8f18">Overview</h2>
-<div class="outline-text-2" id="text-orgebd8f18">
+<div id="outline-container-org009e2c9" class="outline-2">
+<h2 id="org009e2c9">Josuke</h2>
+<div class="outline-text-2" id="text-org009e2c9">
+<p>
+lol
+</p>
+<p class="profile-img">
+<img src="./resources/josuke.jpg" alt="josuke.jpg" class="profile-img" />
+dfd
+</p>
+</div>
+</div>
+<div id="outline-container-orgd1c11fb" class="outline-2">
+<h2 id="orgd1c11fb">Overview</h2>
+<div class="outline-text-2" id="text-orgd1c11fb">
 <p>
 This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
 </p>
@@ -42,14 +55,15 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 
-<div id="outline-container-org61ce2dd" class="outline-2">
-<h2 id="org61ce2dd">Links</h2>
-<div class="outline-text-2" id="text-org61ce2dd">
+<div id="outline-container-orgc5fa96e" class="outline-2">
+<h2 id="orgc5fa96e">Links</h2>
+<div class="outline-text-2" id="text-orgc5fa96e">
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Cristhian Mayo</p>
+<p class="email">Email: <a href="mailto:nvtn@toast">nvtn@toast</a></p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
 </div>
 </body>
