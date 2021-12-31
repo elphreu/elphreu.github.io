@@ -5,28 +5,33 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Electric</title>
+<title>Electric Heritage</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Cristhian Mayo" />
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 </head>
 <body>
 <div id="content">
-<h1 class="title">Electric</h1>
+<h1 class="title">Electric Heritage
+<br />
+<span class="subtitle">Always working on something</span>
+</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org367bb44">Overview</a></li>
-<li><a href="#org9274f05">Links</a></li>
+<li><a href="#org15529d5">Overview</a></li>
+<li><a href="#org5767056">Links</a></li>
 </ul>
 </div>
 </div>
+<p>
+<code>This site is work in progress</code> 
+</p>
 
-
-<div id="outline-container-org367bb44" class="outline-2">
-<h2 id="org367bb44">Overview</h2>
-<div class="outline-text-2" id="text-org367bb44">
+<div id="outline-container-org15529d5" class="outline-2">
+<h2 id="org15529d5">Overview</h2>
+<div class="outline-text-2" id="text-org15529d5">
 <p>
 This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
 </p>
@@ -37,14 +42,11 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 
-<div id="outline-container-org9274f05" class="outline-2">
-<h2 id="org9274f05">Links</h2>
-<div class="outline-text-2" id="text-org9274f05">
+<div id="outline-container-org5767056" class="outline-2">
+<h2 id="org5767056">Links</h2>
+<div class="outline-text-2" id="text-org5767056">
 <ul class="org-ul">
-<li><a href="https://systemcrafters.net">System Crafters Official Site</a></li>
-<li><a href="https://youtube.com/SystemCrafters">System Crafters on YouTube</a></li>
-<li><a href="https://twitch.com/SystemCrafters">System Crafters on Twitch</a></li>
-<li><a href="https://twitter.com/SystemCrafters">System Crafters on Twitter</a></li>
+<li>Japanese Learning</li>
 </ul>
 </div>
 </div>

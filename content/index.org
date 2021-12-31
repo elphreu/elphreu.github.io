@@ -1,17 +1,19 @@
-#+title:Electric Heritage
-#+AUTHOR:risthian Mayo
+#+title:Personal Website
+#+SUBTITLE: Always working on something
 
+#+AUTHOR:Cristhian Mayo
+
+# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+# #+ATTR_HTML: :class profile-img
+
+=This site is work in progress= 
  
 * Overview
 
 This is my personal Website written with [[https://orgmode.org][Org Mode]]!
 
-Just testing lol
-
 Here is a link to my [[./Emacs.org][Emacs configuration]].
 
 * Links
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
+# + [[id:f7e5bdfd-1bac-400c-8e03-2b6dc1cbc112][Japanese Learning]]

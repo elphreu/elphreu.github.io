@@ -1,4 +1,4 @@
-#+title: Org Website Example
+#+title: Org Website 
 
-Personal Website :) [[https://orgmode.org][Org Mode]].
+Personal Website made with [[https://orgmode.org][Org Mode]].
 
