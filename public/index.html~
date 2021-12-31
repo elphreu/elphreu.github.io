@@ -5,14 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Electric Heritage</title>
+<title>Personal Website</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Cristhian Mayo" />
-<link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content">
-<h1 class="title">Electric Heritage
+<h1 class="title">Personal Website
 <br />
 <span class="subtitle">Always working on something</span>
 </h1>
@@ -20,8 +20,8 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org15529d5">Overview</a></li>
-<li><a href="#org5767056">Links</a></li>
+<li><a href="#orgebd8f18">Overview</a></li>
+<li><a href="#org61ce2dd">Links</a></li>
 </ul>
 </div>
 </div>
@@ -29,9 +29,9 @@
 <code>This site is work in progress</code> 
 </p>
 
-<div id="outline-container-org15529d5" class="outline-2">
-<h2 id="org15529d5">Overview</h2>
-<div class="outline-text-2" id="text-org15529d5">
+<div id="outline-container-orgebd8f18" class="outline-2">
+<h2 id="orgebd8f18">Overview</h2>
+<div class="outline-text-2" id="text-orgebd8f18">
 <p>
 This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
 </p>
@@ -42,12 +42,9 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 
-<div id="outline-container-org5767056" class="outline-2">
-<h2 id="org5767056">Links</h2>
-<div class="outline-text-2" id="text-org5767056">
-<ul class="org-ul">
-<li>Japanese Learning</li>
-</ul>
+<div id="outline-container-org61ce2dd" class="outline-2">
+<h2 id="org61ce2dd">Links</h2>
+<div class="outline-text-2" id="text-org61ce2dd">
 </div>
 </div>
 </div>

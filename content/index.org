@@ -3,7 +3,7 @@
 
 #+AUTHOR:Cristhian Mayo
 
-# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 
 # #+ATTR_HTML: :class profile-img
 
