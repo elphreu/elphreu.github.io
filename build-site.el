@@ -31,6 +31,8 @@
              :publishing-function 'org-html-publish-to-html
              :publishing-directory "./public"
              :with-author t
+	     :with-footnotes t
+	     :with-email t
 	     :with-date t
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
