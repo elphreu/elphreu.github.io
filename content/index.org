@@ -1,14 +1,11 @@
 #+title:Personal Website
-#+SUBTITLE: Always working on something
-
-#+AUTHOR:Cristhian Mayo
+#+SUBTITLE: Electric Heritage
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 
-#+ATTR_HTML: :class profile-img
-[[./resources/josuke.jpg]]
-
 =This site is work in progress= 
+
+#+AUTHOR: Ephreu
 
 * Josuke
 lol
