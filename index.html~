@@ -7,46 +7,40 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Personal Website</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Cristhian Mayo" />
+<meta name="author" content="Ephreu" />
 <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 </head>
 <body>
 <div id="content">
 <h1 class="title">Personal Website
 <br />
-<span class="subtitle">Always working on something</span>
+<span class="subtitle">Electric Heritage</span>
 </h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgb22dbc1">Josuke</a></li>
-<li><a href="#org25ab93e">Overview</a></li>
-<li><a href="#orgd81cfbb">Links</a></li>
+<li><a href="#orgac96ea3">Josuke</a></li>
+<li><a href="#org1e5eeb2">Overview</a></li>
+<li><a href="#orgf70dc38">Links</a></li>
 </ul>
 </div>
 </div>
-
-<div id="org7e63e2d" class="figure">
-<p><img src="./resources/josuke.jpg" alt="josuke.jpg" class="profile-img" />
-</p>
-</div>
-
 <p>
 <code>This site is work in progress</code> 
 </p>
 
-<div id="outline-container-orgb22dbc1" class="outline-2">
-<h2 id="orgb22dbc1">Josuke</h2>
-<div class="outline-text-2" id="text-orgb22dbc1">
+<div id="outline-container-orgac96ea3" class="outline-2">
+<h2 id="orgac96ea3">Josuke</h2>
+<div class="outline-text-2" id="text-orgac96ea3">
 <p>
 lol
 </p>
 </div>
 </div>
-<div id="outline-container-org25ab93e" class="outline-2">
-<h2 id="org25ab93e">Overview</h2>
-<div class="outline-text-2" id="text-org25ab93e">
+<div id="outline-container-org1e5eeb2" class="outline-2">
+<h2 id="org1e5eeb2">Overview</h2>
+<div class="outline-text-2" id="text-org1e5eeb2">
 <p>
 This is my personal Website written with <a href="https://orgmode.org">Org Mode</a>!
 </p>
@@ -57,14 +51,14 @@ Here is a link to my <a href="./Emacs.html">Emacs configuration</a>.
 </div>
 </div>
 
-<div id="outline-container-orgd81cfbb" class="outline-2">
-<h2 id="orgd81cfbb">Links</h2>
-<div class="outline-text-2" id="text-orgd81cfbb">
+<div id="outline-container-orgf70dc38" class="outline-2">
+<h2 id="orgf70dc38">Links</h2>
+<div class="outline-text-2" id="text-orgf70dc38">
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Cristhian Mayo</p>
+<p class="author">Author: Ephreu</p>
 <p class="email">Email: <a href="mailto:nvtn@toast">nvtn@toast</a></p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.2 (<a href="https://orgmode.org">Org</a> mode 9.4.4)</p>
 </div>
