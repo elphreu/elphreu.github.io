@@ -7,8 +7,6 @@
 
 #+AUTHOR: Ephreu
 
-* Josuke
-lol
 * Overview
 
 This is my personal Website written with [[https://orgmode.org][Org Mode]]!
